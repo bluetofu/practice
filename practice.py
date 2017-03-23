@@ -12,3 +12,6 @@ obj= """
 #1. json -> dict
 result = json.loads(obj)
 print(result)
+
+testChange
+testChange2
